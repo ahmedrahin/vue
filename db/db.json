@@ -1,0 +1,30 @@
+{
+  "user": [
+    {
+      "id": "173b",
+      "name": "Rahin Ahmed",
+      "email": "ahmedrahin660@gmail.com",
+      "password": "rrr"
+    },
+    {
+      "id": "5ba0",
+      "name": "Rabby",
+      "email": "rabby@gmail.com",
+      "password": "r"
+    }
+  ],
+  "restaurent": [
+    {
+      "id": 1,
+      "name": "State Of Foods",
+      "address": "Appayon Tower, Feni",
+      "contact": "01923930"
+    },
+    {
+      "id": "e3f9",
+      "name": "The Feniean",
+      "address": "Bonani",
+      "contact": ""
+    }
+  ]
+}
